@@ -1,0 +1,1 @@
+console.log(((new Buffer([1,2,3,4])).readUInt32LE(0) == 0x04030201) ? "LittleEndian" : "BigEndian");
