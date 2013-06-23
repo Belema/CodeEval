@@ -1,4 +1,4 @@
 CodeEval
 ========
 
-My CodeEval solutions
+My JavaScript solutions to [CodeEval](https://www.codeeval.com) challenges.
